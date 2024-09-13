@@ -1,0 +1,16 @@
+// Try to send a request
+// Curl: `curl --request GET --url http://localhost:8000/`
+// or with REST Client VSCode Extension
+// Note: this lib can be receive a message via Context (see more in code)
+
+### Default
+GET http://localhost:8000/
+
+### With Context
+GET http://localhost:8000/msg/mynameiswat
+
+### With Context (empty msg, will be not showing in logs)
+GET http://localhost:8000/msg
+
+### CUSTOM
+GET http://localhost:8001/msg_custom
