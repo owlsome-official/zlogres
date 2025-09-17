@@ -1,11 +1,11 @@
 module github.com/owlsome-official/zlogres
 
-go 1.24
+go 1.24.0
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.9
 	github.com/rs/zerolog v1.34.0
-	github.com/valyala/fasthttp v1.65.0
+	github.com/valyala/fasthttp v1.66.0
 )
 
 require (
@@ -17,5 +17,5 @@ require (
 	github.com/mattn/go-runewidth v0.0.16 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	golang.org/x/sys v0.35.0 // indirect
+	golang.org/x/sys v0.36.0 // indirect
 )
