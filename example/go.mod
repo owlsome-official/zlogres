@@ -6,7 +6,7 @@ replace github.com/owlsome-official/zlogres => ../
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.11
-	github.com/owlsome-official/zlogres v1.0.6
+	github.com/owlsome-official/zlogres v0.0.0
 )
 
 require (
