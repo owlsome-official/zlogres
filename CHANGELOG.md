@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.10] - `2026-09-24`
+
+- Updated dependencies version
+
+[v1.0.10]: https://github.com/owlsome-official/zlogres/releases/tag/v1.0.10
+
 ## [v1.0.9] - `2026-07-13`
 
 - Updated dependencies version
